@@ -1,0 +1,14 @@
+[color]
+	ui = true
+[user]
+	name = Ryan Switzer
+	email = ryanaswitzer@gmail.com
+[core]
+	autocrlf = input
+	exludesFile = /Users/ryan.switzer/.gitignore
+[pull]
+	rebase = false
+[init]
+	defaultBranch = main
+[push]
+	default = current
