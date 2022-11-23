@@ -5,7 +5,7 @@
 	email = ryanaswitzer@gmail.com
 [core]
 	autocrlf = input
-	exludesFile = /Users/ryan.switzer/.gitignore
+	exludesFile = ~/.gitignore
 [pull]
 	rebase = false
 [init]
